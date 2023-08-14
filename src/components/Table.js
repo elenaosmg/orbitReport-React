@@ -1,6 +1,3 @@
-import satData from "./satData";
-import Buttons from "./Buttons";
-
 
 
 const Table = ({ sat }) => {
